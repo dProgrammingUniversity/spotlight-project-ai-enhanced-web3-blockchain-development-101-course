@@ -27,6 +27,7 @@ In this lesson, I learnt alot about Blockchain technology like nodes, validator,
 ### SECTION 2: SMART CONTRACTS UNVEILED
 **Smart Contracts Explained: The Building Blocks of Web3**
 - Response: 
+I learnt about smart contract
 
 ### SECTION 3: DIVE INTO BLOCKCHAIN PLATFORMS
 **Bitcoin Blockchain: The Origin and Evolution of the First Cryptocurrency**
