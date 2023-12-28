@@ -65,8 +65,7 @@ Welcome to the Spotlight Project for the AI-Enhanced Web3/Blockchain Development
 
 Upload your terminal screenshots here to show that you have followed the GitHub steps correctly.
 
-- ![GitHub Remote URL](URL_to_image_of_your_terminal_showing_git_remote)
-- ![Git Status](URL_to_image_of_your_terminal_showing_git_status)
+- ![GitHub Remote URL](images/project-screeshot.png)
 
 Make sure the URL of the remote in your screenshot matches the URL of your GitHub repo for this project.
 
