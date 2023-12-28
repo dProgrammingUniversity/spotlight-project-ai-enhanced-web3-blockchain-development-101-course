@@ -17,12 +17,17 @@ Welcome to the Spotlight Project for the AI-Enhanced Web3/Blockchain Development
 **Exploring the Web3 Revolution: The New Decentralized Internet**
 - Response: 
 
+I learn about how Web3 envolved from Web1 to Web3 and the decentralization it brought.
+
 **Unlocking the Potential of Blockchain Technology**
 - Response: 
+
+In this lesson, I learnt alot about Blockchain technology like nodes, validator, consensor to prepare me as a Blockchain developer.
 
 ### SECTION 2: SMART CONTRACTS UNVEILED
 **Smart Contracts Explained: The Building Blocks of Web3**
 - Response: 
+I learnt about smart contract
 
 ### SECTION 3: DIVE INTO BLOCKCHAIN PLATFORMS
 **Bitcoin Blockchain: The Origin and Evolution of the First Cryptocurrency**
@@ -74,6 +79,8 @@ Make sure the URL of the remote in your screenshot matches the URL of your GitHu
 Remember, to earn your certificate, you must complete this project satisfactorily. Your submission will be reviewed, and you will receive feedback accordingly. Good luck!
 
 Solomon Foskaay
+
 Founder,
+
 [dProgramming University](https://dProgrammingUniversity.com)
 
