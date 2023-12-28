@@ -73,3 +73,7 @@ Make sure the URL of the remote in your screenshot matches the URL of your GitHu
 
 Remember, to earn your certificate, you must complete this project satisfactorily. Your submission will be reviewed, and you will receive feedback accordingly. Good luck!
 
+Solomon Foskaay
+Founder,
+[dProgramming University](https://dProgrammingUniversity.com)
+
