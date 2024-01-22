@@ -32,36 +32,36 @@ I learnt about smart contract
 ### SECTION 3: DIVE INTO BLOCKCHAIN PLATFORMS
 **Bitcoin Blockchain: The Origin and Evolution of the First Cryptocurrency**
 - Response: 
-
+I learnt about bitcoin and its founder and also UTXO
 **Ethereum Ecosystem: A Deep Dive into EVM Blockchains**
 - Response: 
-
+I learnt about Ethereum, its founder and year, its transition from POW to POS
 **Solana Ecosystem: The High-Speed Blockchain Network**
 - Response: 
-
+I learnt about Solana its founder and year, how its highly scalable and fast with upto 50000 tps and its early adoption of POS and POH
 ### SECTION 4: DECODING DAPPS
 **dApps Decoded: Unpacking Decentralized Applications**
 - Response: 
-
+Decentralized applications that is open source and transparent on web3
 ### SECTION 5: TOP WEB3 PROGRAMMING LANGUAGES
 **Vanilla Solidity: Smart Contract Language of Ethereum/EVM Smart Contracts**
 - Response: 
-
+Solidity, Golang, Rust 
 **Solang Solidity for Solana: Adapting Solidity for Non-EVM Blockchains**
 - Response: 
-
+I learnt that with solang solidity one can deploy solana programs with vanilla soldity knowledge with little twerking as Solang compiles solidity for non-Evm blockchains like solana 
 ### SECTION 6: SETUP WEB3 DEVELOPMENT ENVIRONMENT
 **Web3 Developer Toolbox: Setting up Web3 Development Environment (Ethereum/Solana)**
 - Response: 
-
+Solang solidity, IDE's middlewares 
 ### SECTION 7: GIT & GITHUB FOR WEB3 DEVELOPMENT COLLABORATION
 **Introduction To Git & GitHub for Web3 Development**
 - Response: 
-
+to host and contribute to open source projects exposing developers to real world projects 
 ### SECTION 8: AI TOOLS FOR WEB3 DEVELOPMENT
 **Introduction To AI Tools For Web3 Development**
 - Response: 
-
+Chatgpt, Bard 
 ### SECTION 9: COURSE PROJECT
 **Spotlight Project For AI-Enhanced Web3/Blockchain Development 101 Course**
 - Response: 
