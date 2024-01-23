@@ -70,7 +70,7 @@ Chatgpt, Bard
 
 Upload your terminal screenshots here to show that you have followed the GitHub steps correctly.
 
-- ![GitHub Remote URL](images/project-screeshot.png)
+- ![GitHub Remote URL](https://github.com/Echendu1/spotlight-project-ai-enhanced-web3-blockchain-development-101-course/commit/43c699928a47f83845d7da56d6e46a935b806f84#diff-b5740fe419fe4f1837cbcbcbb133b2b97563fe3d22aceafb6476cd9923bcc582)
 
 Make sure the URL of the remote in your screenshot matches the URL of your GitHub repo for this project.
 
