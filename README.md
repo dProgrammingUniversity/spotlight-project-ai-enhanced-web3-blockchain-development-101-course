@@ -67,7 +67,7 @@ In this lesson, I learnt alot about Blockchain technology like nodes, validator,
 **Solang Solidity for Solana: Adapting Solidity for Non-EVM Blockchains**
 
 -   Response:
-    Solang for solana excosystem, I was also introduced to the language and hoping to learn more
+    Solang for solana ecosystem, I was also introduced to the language and hoping to learn more
 
 ### SECTION 6: SETUP WEB3 DEVELOPMENT ENVIRONMENT
 
@@ -81,7 +81,7 @@ In this lesson, I learnt alot about Blockchain technology like nodes, validator,
 **Introduction To Git & GitHub for Web3 Development**
 
 -   Response:
-    Git is very interactive, and it is cool for collaborations
+    Git is very interactive, and it is cool for collaborations.
 
 ### SECTION 8: AI TOOLS FOR WEB3 DEVELOPMENT
 
