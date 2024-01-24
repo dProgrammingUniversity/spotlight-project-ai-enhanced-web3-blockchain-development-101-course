@@ -100,7 +100,7 @@ In this lesson, I learnt alot about Blockchain technology like nodes, validator,
 
 Upload your terminal screenshots here to show that you have followed the GitHub steps correctly.
 
-![(images/solution.png)]
+![screenshot](images/solution.png)
 
 Make sure the URL of the remote in your screenshot matches the URL of your GitHub repo for this project.
 
