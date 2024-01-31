@@ -78,18 +78,18 @@ Tobe alble to developpe in solana you need some tools like solang compiler, Anch
 
 ### SECTION 8: AI TOOLS FOR WEB3 DEVELOPMENT
 **Introduction To AI Tools For Web3 Development**
-- Response: 
+- Response:  learnt that AI tools are revolutionizing the way web3 developers work. These tools can automate tedious tasks, provide insights, and enhance the overall efficiency of development processes.
 
 ### SECTION 9: COURSE PROJECT
 **Spotlight Project For AI-Enhanced Web3/Blockchain Development 101 Course**
-- Response: I learnt that AI tools are revolutionizing the way web3 developers work. These tools can automate tedious tasks, provide insights, and enhance the overall efficiency of development processes.
+- Response: I learnt how to create fork to contribute to project make changes , add image and push it to a branch 
 
 ## Screenshot Submission:
 
 Upload your terminal screenshots here to show that you have followed the GitHub steps correctly.
 
 - ![GITHUB IMAGE](https://github.com/Magou226/spotlight-project-ai-enhanced-web3-blockchain-development-101-course/blob/60a99f82386f06730b59f9c94fd82a4076e70b04/image/Screenshot%20from%202024-01-31%2010-36-31.png)
-- ![github iMAGE](image/Screenshot from 2024-01-31 10-40-30.png)
+- ![github iMAGE](https://github.com/Magou226/spotlight-project-ai-enhanced-web3-blockchain-development-101-course/blob/60a99f82386f06730b59f9c94fd82a4076e70b04/image/Screenshot%20from%202024-01-31%2010-40-30.png)
 
 
 
