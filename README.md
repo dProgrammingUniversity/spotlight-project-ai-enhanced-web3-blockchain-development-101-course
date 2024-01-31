@@ -88,8 +88,8 @@ Tobe alble to developpe in solana you need some tools like solang compiler, Anch
 
 Upload your terminal screenshots here to show that you have followed the GitHub steps correctly.
 
-- ![GitHub Remote URL](image/Screenshot from 2024-01-31 10-36-31.png)
--  ![GitHub Remote URL](image/Screenshot from 2024-01-31 10-40-30.png)
+- (image/Screenshot from 2024-01-31 10-36-31.png)
+- (image/Screenshot from 2024-01-31 10-40-30.png)
 
 
 
