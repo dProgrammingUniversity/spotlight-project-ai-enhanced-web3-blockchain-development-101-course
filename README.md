@@ -88,8 +88,8 @@ Tobe alble to developpe in solana you need some tools like solang compiler, Anch
 
 Upload your terminal screenshots here to show that you have followed the GitHub steps correctly.
 
-- (image/Screenshot from 2024-01-31 10-36-31.png)
-- (image/Screenshot from 2024-01-31 10-40-30.png)
+- ![GITHUB IMAGE](https://github.com/Magou226/spotlight-project-ai-enhanced-web3-blockchain-development-101-course/blob/60a99f82386f06730b59f9c94fd82a4076e70b04/image/Screenshot%20from%202024-01-31%2010-36-31.png)
+- ![github iMAGE](image/Screenshot from 2024-01-31 10-40-30.png)
 
 
 
