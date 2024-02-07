@@ -75,7 +75,7 @@ I put what I learnt in section 7 to practice by forking the spotlight project re
 
 Upload your terminal screenshots here to show that you have followed the GitHub steps correctly.
 
-- ![GitHub Remote URL](images/olukosi-screenshot.png)
+- ![GitHub Remote URL](/home/bravolak/Documents/Projects at dPu/spotlight-project-ai-enhanced-web3-blockchain-development-101-course/images/olukosi-screenshot.png)
 
 Make sure the URL of the remote in your screenshot matches the URL of your GitHub repo for this project.
 
